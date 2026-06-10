@@ -48,7 +48,7 @@
 
 <table>
 <tr>
-<td width="50%">
+<td width="51%">
 
 <h3> <a href="https://github.com/67SaumyaSingh/sms-detection">SMS Spam Detection System</a></h3>
 <hr>
