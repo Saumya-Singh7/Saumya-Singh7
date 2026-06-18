@@ -40,7 +40,7 @@
 <h2 align="center"> Contribution Graph</h2>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=67SaumyaSingh&bg_color=0d1117&color=9D4EDD&line=9D4EDD&point=ffffff&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Saumya-Singh7&bg_color=0d1117&color=9D4EDD&line=9D4EDD&point=ffffff&hide_border=true" />
 </p>
 
 ---
@@ -50,7 +50,7 @@
 <tr>
 <td width="50%">
 
-<h3> <a href="https://github.com/67SaumyaSingh/sms-detection">SMS Spam Detection System</a></h3>
+<h3> <a href="https://github.com/Saumya-Singh7/sms-detection">SMS Spam Detection System</a></h3>
 <hr>
 
 <b>Tech:</b> Python, Machine Learning, NLP  
