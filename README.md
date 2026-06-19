@@ -32,7 +32,7 @@
 
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=67SaumyaSingh&theme=tokyonight&hide_border=true&ring=9D4EDD&fire=9D4EDD" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Saumya-Singh7&theme=tokyonight&hide_border=true&ring=9D4EDD&fire=9D4EDD" />
 </p>
 
 ---
