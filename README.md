@@ -69,7 +69,16 @@ I’m passionate about continuous learning, clean code, and leveraging technolog
     alt="Most Used Languages"
   />
 </p>
+---
+## 🐍 Watch My Contributions
 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Saumya-Singh7/Saumya-Singh7/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Saumya-Singh7/Saumya-Singh7/output/github-snake.svg">
+    <img alt="Animated GitHub contribution snake" src="https://raw.githubusercontent.com/Saumya-Singh7/Saumya-Singh7/output/github-snake.svg" width="100%">
+  </picture>
+</p>
 ---
 <h2 align="center"> Featured Projects</h2>
 
