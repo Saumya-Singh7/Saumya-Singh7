@@ -75,25 +75,15 @@ I’m passionate about continuous learning, clean code, and leveraging technolog
 
 ---
 
-## 🐍 Contribution Snake
 
 <p align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/Saumya-Singh7/Saumya-Singh7/output/github-snake-dark.svg"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/Saumya-Singh7/Saumya-Singh7/output/github-snake.svg"
-    />
-    <img
-      src="https://raw.githubusercontent.com/Saumya-Singh7/Saumya-Singh7/output/github-snake.svg"
-      alt="Animated GitHub Contribution Snake"
-      width="100%"
-    />
-  </picture>
+  <img
+    src="https://raw.githubusercontent.com/Saumya-Singh7/Saumya-Singh7/output/github-snake.svg"
+    alt="GitHub contribution snake"
+    width="100%"
+  />
 </p>
+
 
 ---
 
