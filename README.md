@@ -61,7 +61,7 @@ I’m passionate about continuous learning, clean code, and leveraging technolog
 <p align="center">
   <a href="https://github.com/Saumya-Singh7">
     <img
-      src="https://github-readme-activity-graph.vercel.app/graph?username=Saumya-Singh7&theme=tokyo-night&hide_border=true&area=true"
+      src="https://github-readme-activity-graph.vercel.app/graph?username=Saumya-Singh7)](https://github.com/ashutosh00710/github-readme-activity-graph)"
       alt="Contribution Activity Graph"
       width="100%"
     />
