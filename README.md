@@ -40,7 +40,16 @@ I’m passionate about continuous learning, clean code, and leveraging technolog
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Saumya-Singh7&theme=tokyonight&hide_border=true&ring=9D4EDD&fire=9D4EDD" />
 </p>
+---
+## 📈 My Contribution Graph
 
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Saumya-Singh7&theme=tokyo-night&hide_border=true&area=true"
+    alt="GitHub Contribution Activity Graph"
+    width="100%"
+  />
+</p>
 ---
 ## 📊 GitHub Stats & Streak
 
