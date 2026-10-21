@@ -31,34 +31,18 @@ I’m passionate about continuous learning, clean code, and leveraging technolog
  
 </p>
 
----
-
-
----
-## 📈 My Contribution Graph
-
-<p align="center">
-  <a href="https://github.com/Saumya-Singh7">
-    <img
-      src="https://github-readme-activity-graph.vercel.app/graph?username=Saumya-Singh7&theme=tokyo-night&hide_border=true&area=true"
-      alt="GitHub Contribution Activity Graph"
-      width="100%"
-    />
-  </a>
-</p>
----
 ## 📊 GitHub Stats & Streak
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=Saumya-Singh7&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
+    src="https://github-readme-stats.vercel.app/api?username=Saumya-Singh7&show_icons=true&theme=tokyonight&hide_border=true"
     height="180"
-    alt="GitHub Statistics"
+    alt="GitHub Stats"
   />
   <img
     src="https://github-readme-streak-stats.herokuapp.com/?user=Saumya-Singh7&theme=tokyonight&hide_border=true"
     height="180"
-    alt="GitHub Contribution Streak"
+    alt="GitHub Streak"
   />
 </p>
 
@@ -66,20 +50,50 @@ I’m passionate about continuous learning, clean code, and leveraging technolog
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saumya-Singh7&layout=compact&theme=tokyonight&hide_border=true"
     height="160"
-    alt="Most Used Languages"
+    alt="Top Languages"
   />
 </p>
+
 ---
-## 🐍 Watch My Contributions
+
+## 📈 Contribution Activity
+
+<p align="center">
+  <a href="https://github.com/Saumya-Singh7">
+    <img
+      src="https://github-readme-activity-graph.vercel.app/graph?username=Saumya-Singh7&theme=tokyo-night&hide_border=true&area=true"
+      alt="Contribution Activity Graph"
+      width="100%"
+    />
+  </a>
+</p>
+
+---
+
+## 🐍 Contribution Snake
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Saumya-Singh7/Saumya-Singh7/output/github-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Saumya-Singh7/Saumya-Singh7/output/github-snake.svg">
-    <img alt="Animated GitHub contribution snake" src="https://raw.githubusercontent.com/Saumya-Singh7/Saumya-Singh7/output/github-snake.svg" width="100%">
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/Saumya-Singh7/Saumya-Singh7/output/github-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/Saumya-Singh7/Saumya-Singh7/output/github-snake.svg"
+    />
+    <img
+      src="https://raw.githubusercontent.com/Saumya-Singh7/Saumya-Singh7/output/github-snake.svg"
+      alt="Animated GitHub Contribution Snake"
+      width="100%"
+    />
   </picture>
 </p>
+
 ---
+
+## 🚀 Featured Projects
+
 <h2 align="center"> Featured Projects</h2>
 
 <table>
