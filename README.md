@@ -115,6 +115,7 @@ I’m passionate about continuous learning, clean code, and leveraging technolog
   <a href="mailto:saumyass723@gmail.com">
     <img src="https://img.shields.io/badge/Email-9D4EDD?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
+
 </p>
 
 ---
