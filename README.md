@@ -58,17 +58,14 @@ I’m passionate about continuous learning, clean code, and leveraging technolog
 
 
 
-<h2 align="center">📈 My Contribution Activity</h2>
 
-<p align="center">
-  <a href="https://github.com/Saumya-Singh7">
-    <img
-      src="https://github-readme-activity-graph.vercel.app/graph?username=Saumya-Singh7&theme=dracula"
-      alt="Saumya's GitHub Contribution Activity Graph"
-      width="100%"
-    />
-  </a>
-</p>
+### 🏆 GitHub Achievements
+
+
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Saumya-Singh7&theme=tokyonight" width="95%" />
+</div>
 
 ---
 
