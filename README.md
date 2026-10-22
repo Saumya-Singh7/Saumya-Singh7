@@ -40,7 +40,7 @@ I’m passionate about continuous learning, clean code, and leveraging technolog
     alt="GitHub Stats"
   />
   <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=Saumya-Singh7&theme=tokyonight&hide_border=true"
+    src="https://streak-stats.demolab.com/?user=Saumya-Singh7&theme=tokyonight&hide_border=true"
     height="180"
     alt="GitHub Streak"
   />
