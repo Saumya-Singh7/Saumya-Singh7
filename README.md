@@ -43,23 +43,18 @@ I’m passionate about continuous learning, clean code, and leveraging technolog
 </p>
 
 ---
-
-
-
----
-
-
-
-
 ### 🏆 GitHub Achievements
 
 <div align="center">
-  <img src="./cards/profile.svg" width="95%" alt="GitHub Profile Details" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Saumya-Singh7&theme=tokyonight" width="95%" />
 </div>
+
+
 ---
 
 
-##
+
+
 
 ## 🚀 Featured Projects
 
