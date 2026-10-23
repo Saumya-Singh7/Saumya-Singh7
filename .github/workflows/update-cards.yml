@@ -22,7 +22,7 @@ jobs:
           curl -fsSL "https://streak-stats.demolab.com/?user=Saumya-Singh7&theme=tokyonight&hide_border=true&v=$T" -o cards/streak.svg
           curl -fsSL "https://github-readme-stats.vercel.app/api/top-langs/?username=Saumya-Singh7&layout=compact&theme=tokyonight&hide_border=true&v=$T" -o cards/langs.svg
           curl -fsSL "https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Saumya-Singh7&theme=tokyonight&v=$T" -o cards/profile.svg
-
+          curl -fsSL "https://github-readme-activity-graph.vercel.app/graph?username=Saumya-Singh7&theme=tokyo-night&hide_border=true&bg_color=1a1b27&v=$T" -o cards/activity.svg
       - name: Commit
         run: |
           git config user.name "github-actions[bot]"
