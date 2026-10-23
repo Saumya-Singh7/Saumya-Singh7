@@ -44,13 +44,7 @@ I’m passionate about continuous learning, clean code, and leveraging technolog
 
 ---
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saumya-Singh7&layout=compact&theme=tokyonight&hide_border=true"
-    height="160"
-    alt="Top Languages"
-  />
-</p>
+
 
 ---
 
