@@ -34,17 +34,15 @@ I’m passionate about continuous learning, clean code, and leveraging technolog
 ## 📊 GitHub Stats & Streak
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Saumya-Singh7&show_icons=true&theme=tokyonight&hide_border=true"
-    height="180"
-    alt="GitHub Stats"
-  />
-  <img
-    src="https://streak-stats.demolab.com/?user=Saumya-Singh7&theme=tokyonight&hide_border=true"
-    height="180"
-    alt="GitHub Streak"
-  />
+  <img src="./cards/stats.svg" height="180" alt="GitHub Stats" />
+  <img src="./cards/streak.svg" height="180" alt="GitHub Streak" />
 </p>
+
+<p align="center">
+  <img src="./cards/langs.svg" height="160" alt="Top Languages" />
+</p>
+
+---
 
 <p align="center">
   <img
