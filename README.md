@@ -57,7 +57,7 @@ I’m passionate about continuous learning, clean code, and leveraging technolog
 
 ## 🚀 Featured Projects
 
-<h2 align="center"> Featured Projects</h2>
+
 
 <table>
 <tr>
