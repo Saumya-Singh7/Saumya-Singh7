@@ -31,8 +31,8 @@ I’m passionate about continuous learning, clean code, and leveraging technolog
  
 </p>
 
-## 📊 GitHub Stats & Streak
 
+<h2 align="center"> 📊 GitHub Stats & Streak</h2>
 <p align="center">
   <img src="./cards/stats.svg" height="180" alt="GitHub Stats" />
   <img src="./cards/streak.svg" height="180" alt="GitHub Streak" />
@@ -43,7 +43,8 @@ I’m passionate about continuous learning, clean code, and leveraging technolog
 </p>
 
 ---
-### 🏆 GitHub Achievements
+
+<h2 align="center"> 🏆 GitHub Achievements</h2>
 
 <div align="center">
   <img src="./cards/profile.svg" width="95%" alt="GitHub Profile Details" />
@@ -55,8 +56,8 @@ I’m passionate about continuous learning, clean code, and leveraging technolog
 
 
 
-## 🚀 Featured Projects
 
+<h2 align="center">🚀 Featured Projects </h2>
 
 
 <table>
