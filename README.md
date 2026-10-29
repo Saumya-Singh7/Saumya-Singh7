@@ -101,7 +101,7 @@ I’m passionate about continuous learning, clean code, and leveraging technolog
 
   <p align="center">
   <a href="https://x.com/Saumya67Singh">
-    <img src="https://img.shields.io/badge/X-9D4EDD?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Twitter-9D4EDD?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 
 </p>
