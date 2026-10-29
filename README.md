@@ -99,6 +99,11 @@ I’m passionate about continuous learning, clean code, and leveraging technolog
     <img src="https://img.shields.io/badge/Email-9D4EDD?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 
+  <p align="center">
+  <a href="https://x.com/Saumya67Singh">
+    <img src="https://img.shields.io/badge/X-9D4EDD?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
 </p>
 
 ---
