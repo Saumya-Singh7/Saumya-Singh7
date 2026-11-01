@@ -26,7 +26,7 @@ I’m passionate about continuous learning, clean code, and leveraging technolog
 <p align="center">
 
 
-![My Skills](https://skillicons.dev/icons?i=html,css,js,react,tailwind,git,github,vscode,mysql,mongodb,postman)
+![My Skills](https://skillicons.dev/icons?i=html,css,js,react,tailwind,git,github,vscode,mysql,mongodb,postman,nodejs,vercel)
 
  
 </p>
