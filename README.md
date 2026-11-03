@@ -88,10 +88,10 @@ I’m passionate about continuous learning, clean code, and leveraging technolog
 <tr>
 <td width="50%">
 
-<h3> <a href="https://github.com/Saumya-Singh7/sms-detection">SMS Spam Detection System</a></h3>
+<h3> <a href="https://github.com/Saumya-Singh7/sms-detection">Mental Journal</a></h3>
 <hr>
 
-<b>Tech:</b> Python, Machine Learning, NLP  
+<b>Tech:</b> JavaScript, React, Tailwind, NodeJS,MongoDB 
 
 <ul>
 <li> Developed a machine learning model to classify SMS messages as <b>Spam</b> or <b>Ham (Not Spam)</b></li>
