@@ -88,7 +88,7 @@ I’m passionate about continuous learning, clean code, and leveraging technolog
 <tr>
 <td width="50%">
 
-<h3> <a href="https://github.com/Saumya-Singh7/sms-detection">Mental Journal</a></h3>
+<h3> <a href="https://github.com/Saumya-Singh7/sms-detection">Mental-Journal</a></h3>
 <hr>
 
 <b>Tech:</b> JavaScript, React, Tailwind, NodeJS, MongoDB 
