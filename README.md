@@ -84,6 +84,31 @@ I’m passionate about continuous learning, clean code, and leveraging technolog
 </tr>
 </table>
 
+<table>
+<tr>
+<td width="50%">
+
+<h3> <a href="https://github.com/Saumya-Singh7/sms-detection">SMS Spam Detection System</a></h3>
+<hr>
+
+<b>Tech:</b> Python, Machine Learning, NLP  
+
+<ul>
+<li> Developed a machine learning model to classify SMS messages as <b>Spam</b> or <b>Ham (Not Spam)</b></li>
+<li> Performed text preprocessing including tokenization, stopword removal, and stemming</li>
+<li> Converted text data into numerical features using <b>TF-IDF Vectorization</b></li>
+<li> Implemented classification algorithms such as <b>Naive Bayes / Logistic Regression</b></li>
+<li> Achieved high accuracy on test data with efficient model performance</li>
+<li> Built a simple and user-friendly system for real-time message prediction</li>
+</ul>
+
+</td>
+
+
+</tr>
+</table>
+
+
 
 
 
