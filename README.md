@@ -94,12 +94,13 @@ I’m passionate about continuous learning, clean code, and leveraging technolog
 <b>Tech:</b> JavaScript, React, Tailwind, NodeJS, MongoDB 
 
 <ul>
-<li> Developed a machine learning model to classify SMS messages as <b>Spam</b> or <b>Ham (Not Spam)</b></li>
-<li> Performed text preprocessing including tokenization, stopword removal, and stemming</li>
-<li> Converted text data into numerical features using <b>TF-IDF Vectorization</b></li>
-<li> Implemented classification algorithms such as <b>Naive Bayes / Logistic Regression</b></li>
-<li> Achieved high accuracy on test data with efficient model performance</li>
-<li> Built a simple and user-friendly system for real-time message prediction</li>
+<li>Home Page: A welcoming landing page with a prominent Mental Journal heading and a Get Started button.</li>
+<li>Navigation Bar: Easy navigation through Home, About, Login, and Dashboard.</li>
+<li>About Page: A dedicated page to introduce the application.</li>
+<li>Login Page UI: A frontend interface for the login experience.Login </li>
+<li>Dashboard UI: A dedicated dashboard page for the journaling experience.</li>
+<li>Clean Design: A minimal, modern interface with a soft pink-and-white theme.</li>
+<li></li>Component-Based Structure: Built with reusable React components.</li>
 </ul>
 
 </td>
