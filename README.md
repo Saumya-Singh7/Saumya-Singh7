@@ -100,7 +100,7 @@ I’m passionate about continuous learning, clean code, and leveraging technolog
 <li>Login Page UI: A frontend interface for the login experience.Login </li>
 <li>Dashboard UI: A dedicated dashboard page for the journaling experience.</li>
 <li>Clean Design: A minimal, modern interface with a soft pink-and-white theme.</li>
-<li></li>Component-Based Structure: Built with reusable React components.</li>
+<li>Component-Based Structure: Built with reusable React components.</li>
 </ul>
 
 </td>
