@@ -75,7 +75,7 @@ I’m passionate about continuous learning, clean code, and leveraging technolog
 <li> Converted text data into numerical features using <b>TF-IDF Vectorization</b></li>
 <li> Implemented classification algorithms such as <b>Naive Bayes / Logistic Regression</b></li>
 <li> Achieved high accuracy on test data with efficient model performance</li>
-<li> Built a simple and user-friendly system for real-time message prediction</li>
+
 </ul>
 
 </td>
